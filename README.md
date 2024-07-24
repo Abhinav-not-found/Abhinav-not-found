@@ -25,10 +25,12 @@
  </p>
  <p align='left'>
 <p>Frontend:</p>
+<p align='left'>
 <img  class="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
- <img  class="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img  class="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img   class="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img class="React" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" height="40" width="40" />
+</p>
 </p>
  <p align='left'>
 	<p>Backend:</p>
