@@ -46,7 +46,6 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5w5ZoDFFhfKz4GAP1JD
 <img class="Tailwind" 
 src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" width="40" />
 <img class="Bootstrap" 
-src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height="40" width="50" />
-<img class="Figma" 
+src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height="40" width="50" /><img class="Figma" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="40" width="30" />
 </p>
