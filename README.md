@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  LinkedIn : https://www.linkedin.com/in/abhinav-kumar-mernstack/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
